@@ -14,7 +14,6 @@ html * {
 body {
 	font-family: 'Outfit', sans-serif;
 	background-color: var(--lightGray);
-<<<<<<< HEAD
 }
 .wrapper {
 	height: 100vh;
@@ -23,8 +22,6 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-=======
->>>>>>> ee3b56db5d105a2cbb8ea98cac4da915b6e8e471
 }
 img {
 	width: 250px;
