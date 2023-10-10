@@ -40,7 +40,7 @@ img {
 }
 .box {
 	width: 280px;
-	height: 400px;
+	height: 430px;
 	padding: 10px;
 	background-color: white;
 	color: black;
@@ -51,4 +51,15 @@ img {
 	display: flex;
 	justify-content: space-around;
 	align-items:center;
+	color:gray;
+	font-family: 'Outfit', sans-serif;
+}
+.last1 {
+	padding-top: 16px;
+}
+.title1 {
+	padding-top: 16px;
+}
+.title {
+	color: var(--darkBlue);
 }
